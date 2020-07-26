@@ -1,0 +1,24 @@
+.box-1{
+	height: 300px;
+	width: 500px;
+	margin: 50px auto;
+	background: green;
+}
+.box-11{
+	height: 250px;
+	width: 250px;
+	background: red;
+	border-radius: 50%;
+	margin-left: 150px;
+	margin-top: 30px;
+	position: absolute;
+}
+.box-12{
+	height: 600px;
+	width: 10px;
+	border: 1px solid #660000;
+	background-color: goldenrod;
+}
+.box-11:hover{
+	background: linear-gradient(red,yellow);
+}
